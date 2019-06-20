@@ -32,3 +32,4 @@ When tested on new images, my model performed as I expected, not perfect but goo
 It fails when it comes to dog breeds with low inter-class variation. i.e. It detected a Chocolate lab as 'Chesapeake_bay_retriever' and a Black lab as 'Labrador_retriever', but I'm glad that it was able to identify the breed as the retriever.  
 
 Blog post:
+https://medium.com/@rekha.chandrasekaran/dog-breed-identification-using-deep-learning-d57dc657f96
